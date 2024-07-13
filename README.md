@@ -54,3 +54,5 @@ Example project demonstrating the setup of a CI/CD pipeline with Jenkins for aut
 
 [[LinkedIn](http://www.linkedin.com/in/hyndavi-nanduri-07630b197)]
 [[Email](venkatahyndavi@gmail.com)]
+[View my resume](Hyndavi_Resume.pdf)
+
