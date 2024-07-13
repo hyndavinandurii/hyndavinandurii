@@ -34,7 +34,7 @@ I am a passionate DevOps Engineer with 2 years of experience in designing and im
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyndavinandurii&layout=compact&theme=radical)
 
 ## 🔧 Projects
 
