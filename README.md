@@ -52,5 +52,5 @@ Example project demonstrating the setup of a CI/CD pipeline with Jenkins for aut
 
 ## 📫 Connect with Me
 
-[![LinkedIn](http://www.linkedin.com/in/hyndavi-nanduri-07630b197)
-[![Email](venkatahyndavi@gmail.com)
+[[LinkedIn](http://www.linkedin.com/in/hyndavi-nanduri-07630b197)]
+[[Email](venkatahyndavi@gmail.com)]
