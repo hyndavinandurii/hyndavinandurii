@@ -28,9 +28,6 @@ I am a passionate DevOps Engineer with 2 years of experience in designing and im
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hyndavinandurii&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyndavinandurii&theme=radical)
 
 ## 🏆 Top Languages
 
